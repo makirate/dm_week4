@@ -31,8 +31,8 @@ date = d.strftime("%Y-%m-%d")
 #         toaddr = input()
 #         raw_msg = "「" + value + "」の不具合は" + inpe_count + "件です。"
 #         msg = MIMEText(raw_msg.encode(jp), 'plain', jp, )
-#         fromaddr = "e185706@ie.u-ryukyu.ac.jp"
-#         password = "LCqbEq85UMaE"
+#         fromaddr = ""
+#         password = ""
 #
 #         msg['Subject'] = "不具合情報" + date
 #         msg['From'] = fromaddr
